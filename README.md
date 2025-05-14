@@ -55,7 +55,6 @@ wget https://huggingface.co/TommyChien/ACRE_train/resolve/main/train.jsonl
 bash scripts/train_stage_2.sh
 ```
 
-⸻
 
 ## 📈 Evaluation
 
@@ -67,8 +66,8 @@ bash scripts/eval.sh
 
 | Model Size | Checkpoint |
 |------------|------------|
-| Qwen2.5-3B | [ACRE-Qwen-3B-Instruct](https://huggingface.co/TommyChien/ACRE-Qwen-3B-instruct) |
-| Qwen2.5-7B | [ACRE-Qwen-7B-Instruct](https://huggingface.co/TommyChien/ACRE-Qwen-7B-instruct) |
+| Qwen2.5-3B | [ACRE-Qwen-3B-Instruct](https://huggingface.co/TommyChien/ACRE-Qwen-2.5-3B-instruct) |
+| Qwen2.5-7B | [ACRE-Qwen-7B-Instruct](https://huggingface.co/TommyChien/ACRE-Qwen-2.5-7B-instruct) |
 
 
 
