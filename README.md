@@ -1,4 +1,4 @@
-# 🚀 Boosting Long-Context Information Seeking via Query-Guided Activation Refilling (ACRE)
+# 🚀 Boosting Long-Context Information Seeking via Query-Guided Activation Refilling (ACL 2025 Main)
 
 
 ## 🧠 What is ACRE?
